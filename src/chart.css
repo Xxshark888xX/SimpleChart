@@ -1,3 +1,7 @@
+input {
+  width: 5%;	
+}
+
 body {
   background: linear-gradient(-45deg, #282f4b, #44569c, #913357, #e73c7e);
   background-size: 800% 800%;
