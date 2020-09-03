@@ -7,6 +7,7 @@ Simple chart done by myself while learning HTML/CSS/JS
 https://htmlpreview.github.io/?https://github.com/Xxshark888xX/SimpleChart/blob/master/src/chart.html
 
 # Features
+* Animated
 * Dynamic
 * Mobile friendly
 * Fully customizable
