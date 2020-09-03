@@ -42,7 +42,7 @@ setTimeout(function() {
 		cNotesLabelBgColor = "rgba(255, 255, 255, .8)",
 		cNotesLabelTextColor = "#333",
 		cNotesLabelBorderRadius = "5%",
-		cHNodesSteps = 10;
+		cHNodesSteps = 80;
 		
 	container.css("background-color", cContainerBackgroundColor);
 
