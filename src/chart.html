@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="chart.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="chart.js"></script>
+    <script src="data_db.js" ></script>
+
+  </head>
+  <body>
+    <span>Score</span><br>
+    <input id="note" type="number" min="1.00" max="5.00" value="1.00"><br>
+    <span>Title</span><br>
+    <input id="title" type="text"><br>
+    <span>Description</span><br>
+    <input id="comment" type="text"><br>
+    <span>Date</span><br>
+    <input id="date" type="text" value="2023-10-24"><br><br>
+    <button id="add">Add</button>
+
+<div class="chart-wrapper-tandru">
+  <canvas id='chart'></canvas>
+  <label class="chart-node-comment-tandru"></label>
+</div>
+
+</body>
+</html>
