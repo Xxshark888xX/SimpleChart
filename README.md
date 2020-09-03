@@ -1,5 +1,5 @@
 # SimpleChart
-Simple chart done by myself while learning HTML/CSS/JS
+Simple chart done by myself while learning *HTML/CSS/JS*
 
 ![Chart](https://i.imgur.com/FyU3lUH.png)
 
