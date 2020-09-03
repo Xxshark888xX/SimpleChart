@@ -45,3 +45,15 @@ body {
   
   padding: .2em;
 }
+
+@media screen and (min-width: 480px) {
+	body {
+	  /* PAGE BACKGRUND COLORS */
+	  background-size: 5000% 5000%;
+	}
+	
+    .chart-wrapper-tandru {
+		width: 800px;
+		height: 600px;
+	}
+}
